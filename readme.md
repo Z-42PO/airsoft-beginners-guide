@@ -1,4 +1,4 @@
-# Airsoft - Guide d'amélioration
+# Airsoft - Guide d'amélioration v1.1.0
 
 ## Avant propos
 
@@ -11,6 +11,10 @@ Ce guide se veut basique, simple, efficace, complet mais non exhaustif. Libre à
 Les sources ont été sélectionnées de manière subjective. Il en résulte d'une part que chacun est donc libre d'être en désaccord avec ce guide pour des raisons qui lui sont propres. D'autre part cela amène un certain type de jeu, basé sur le jeu en équipe, la prudence et la sauvegarde. L'objectif premier de ce guide étant de minimiser les chances du débutant de se faire toucher trop fréquemment (principal problème et générateur de frustration), et non de maximiser ses chances de toucher les autres (même si cela se vérifie indirectement).
 
 Bonne lecture.
+
+## 0. Règles de jeu, puissance et distance d'engagement
+
+Il est important avant tout de bien connaître la [réglementation](https://ffairsoft.org/decouvrir-lairsoft/reglementation/) et les règles spécifiques à chaque partie, notamment concernant les éléments de sécurité, les puissances acceptées et les distances d'engagement.
 
 ## 1. Connaissances théoriques
 
@@ -81,6 +85,8 @@ https://www.youtube.com/watch?v=SmzPbq6CnKY
 
 - Connaître la distance à laquelle sa réplique est efficace à 90%
 - Ne pas tirer sur une cible qu'on ne pas pas toucher de manière sûre (distance, couvert etc.)
+- S'assurer d'avoir un chargeur suffisamment plein. Dans le doute recharger ou passer sur sa réplique secondaire (geste plus rapide)
+- Bien identifier sa cible avant de tirer, afin d'éviter les accidents ou tir fratricide
 - Éviter les combats 50/50 (1vs1, 2vs2). Pour s'en sortir :
     - tir soutenu et/puis déplacement furtif latéral à un autre couvert pour angle de tir plus ouvert
     - repli
@@ -216,7 +222,35 @@ https://www.youtube.com/shorts/o5UiCqQAkV0
 
 https://www.youtube.com/shorts/7Ps30wWlW3M
 
-## 4. Sources générales
+## 4. Les protections oculaires certifiés
+
+| Modèle | Prix |
+|--------|------|
+| Pyramex Capstone | 12€ |
+| Bollé Cobra Hybride | 15€ |
+| Delta Tactics X8 ✅ | 20€ |
+| Pyramex V2G-Plus | 27€ |
+| Delta Tactics X1000 | 25€ |
+| Begadi CP1 | 50€ |
+| Bollé X800 ⭐✅ | 80€ |
+| Bollé X810 | 80€ |
+| Bollé X1000 ⭐ | 95€ |
+| ESS Profile NVG ✅ | 100€ |
+| WILEY X Nerve | 100€ |
+| ESS Land Ops | 110€ |
+| Swiss Eye F-Tac ✅ | 115€ |
+| WILEY X Spear ⭐✅ | 120€ |
+| Oakely Si Ballistic Halo | 130€ |
+| WILEY X Spear Dual Lens ✅ | 140€ |
+| ESS Influx ⭐✅ | 170€ |
+
+⭐ : Trouvable sur leboncoin neuf non déballé en moyenne à 50€ car équipement police / armée (beaucoup de ESS Influx notamment) 
+
+✅ : toutes options (3 coloris noir/vert/beige et 3 écrans fournis neutre/fumé/jaune)
+
+[En savoir plus sur les normes](https://ffairsoft.org/decouvrir-lairsoft/reglementation/reglementation-protections-oculaires/)
+
+## 5. Sources générales
 
 https://www.youtube.com/watch?v=qU9T1gbpqf8
 
