@@ -250,7 +250,22 @@ https://www.youtube.com/shorts/7Ps30wWlW3M
 
 [En savoir plus sur les normes](https://ffairsoft.org/decouvrir-lairsoft/reglementation/reglementation-protections-oculaires/)
 
-## 5. Sources générales
+## 5. 🛠️ Tableau de Diagnostic : Pannes, Causes et Actions
+
+| Symptôme | Causes Probables | Actions Correctives |
+| :--- | :--- | :--- |
+| **Silence total**<br>*(Pas de son, pas de tir)* | • Batterie déchargée ou connecteurs oxydés.<br>• Fusible grillé.<br>• Interrupteur de gâchette défectueux.<br>• Câblage déconnecté ou court-circuit. | 1. Vérifier la charge et le branchement de la batterie.<br>2. Inspecter et remplacer le fusible si nécessaire.<br>3. Vérifier le câblage de la gâchette et du MOSFET. |
+| **Moteur tourne mais ne tire pas** | • BB coincé dans le canon (bourrage).<br>• Engrenages de la gearbox cassés (`Spur gear`).<br>• `Tappet plate` ou `Nozzle` défectueux/désaligné.<br>• Ressort de gearbox cassé ou bloqué. | 1. Nettoyer le canon avec une baguette (`cleaning rod`).<br>2. Ouvrir la gearbox pour inspecter les engrenages et le piston.<br>3. Vérifier l'alignement du `nozzle` et du `tappet plate`. |
+| **Missfeed**<br>*(Tire à vide, double tir, bourrage)* | • Ressort de magasin fatigué ou lèvres abîmées.<br>• BBs de mauvaise qualité (déformés, mauvais diamètre).<br>• `Nozzle` usé ou mal positionné.<br>• Réglage `Hop-Up` trop serré bloquant l'entrée. | 1. Essayer un autre magasin pour isoler le défaut.<br>2. Remplacer par des BBs de haute qualité (`seamless`).<br>3. Nettoyer le `nozzle` et vérifier l'usure des pièces.<br>4. Ajuster ou réduire le réglage `Hop-Up`. |
+| **Puissance trop faible**<br>*(FPS bas, portée courte)* | • **Ressort trop faible** ou fatigué.<br>• Fuites d'air (O-rings secs, piston percé).<br>• Chambre/Hop-Up usée (étanchéité compromise).<br>• Batterie sous-dimensionnée (faible tension). | 1. **Vérifier le ressort** : Un **M90** doit viser **~0.85J - 1.0J**.<br>2. Remplacer les O-rings du piston et du `nozzle` (silicone).<br>3. Tester la batterie avec un multimètre (vérifier les Ampères).<br>4. Nettoyer et graisser la chambre et le piston. |
+| **Tir irrégulier**<br>*(Alternance coups bons/faibles)* | • Fuite d'air intermittente (joint O-ring abîmé).<br>• BBs de qualité variable.<br>• Alimentation électrique instable. | 1. Remplacer systématiquement les O-rings.<br>2. Changer de marque de BBs (privilégier le "seamless").<br>3. Vérifier la fixation de la batterie et les soudures. |
+| **Bruits anormaux**<br>*(Grincement, broyage)* | • Mauvais calage des engrenages (`Shims` absents).<br>• Engrenages en plastique usés.<br>• Moteur mal aligné (frottement). | 1. Ajuster les `shims` des engrenages pour un jeu optimal.<br>2. Remplacer les engrenages par du métal si nécessaire.<br>3. Vérifier l'alignement du moteur (`motor height`). |
+
+> **💡 Note technique sur la puissance (Ressort M90)**<br>
+> Un ressort **M90** est conçu pour des billes de **0.20g - 0.25g**. Il devrait théoriquement générer **330-360 FPS** (soit **0.85J - 1.0J**).<br>
+> Si la puissance est inférieure à **0.8J**, le problème vient souvent d'une **fuite d'air** (O-rings secs) plutôt que du ressort lui-même.
+
+## 6. Sources générales
 
 https://www.youtube.com/watch?v=qU9T1gbpqf8
 
