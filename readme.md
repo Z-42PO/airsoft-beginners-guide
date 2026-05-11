@@ -1,4 +1,4 @@
-# Airsoft - Guide d'amélioration v1.3.0
+# Airsoft - Guide d'amélioration v1.4.0
 
 ## Avant propos
 
@@ -258,19 +258,23 @@ Fonctionnement réplique et gearbox : https://www.youtube.com/watch?v=6NIv7Lgemx
 
 Schéma fonctionnement gearbox : https://www.youtube.com/shorts/FlKF5f_6wiM
 
-Pneumatique & étanchéité : https://www.youtube.com/watch?v=M5PLSttHr3U
+Le hopup : https://www.youtube.com/watch?v=9Jr1wtaGs6g
+
+L'énergie et la puissance : https://www.youtube.com/watch?v=5SEDDkPhcZ8
 
 Bloc hopup : https://www.youtube.com/watch?v=jFFTApZ9CvM
 
 Joint hopup : https://www.youtube.com/watch?v=bCyIXNuBaJY
 
-Calage gearbox : https://www.youtube.com/watch?v=YuZYwrxIiJs
+Les canons : https://www.youtube.com/watch?v=WJ0_0N3-8vw
 
-### Entretien courant et annuel
+### Bricolage & Upgrade
 
-https://www.youtube.com/watch?v=7peAUVRFg44
+Entretien courant et annuel : https://www.youtube.com/watch?v=7peAUVRFg44
 
-### Upgrade
+Pneumatique & étanchéité : https://www.youtube.com/watch?v=M5PLSttHr3U
+
+Calage gearbox : https://www.youtube.com/watch?v=mImTUObSlQM et https://www.youtube.com/watch?v=YuZYwrxIiJs
 
 Changer le joint hopup : https://www.youtube.com/watch?v=ZqQGNkt9OMU
 
