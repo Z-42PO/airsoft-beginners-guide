@@ -1,4 +1,4 @@
-# Airsoft - Guide d'amélioration v1.1.0
+# Airsoft - Guide d'amélioration v1.3.0
 
 ## Avant propos
 
@@ -12,11 +12,11 @@ Les sources ont été sélectionnées de manière subjective. Il en résulte d'u
 
 Bonne lecture.
 
-## 0. Règles de jeu, puissance et distance d'engagement
+## 0. Règles de jeu, puissance et distance d'engagement 📜️
 
 Il est important avant tout de bien connaître la [réglementation](https://ffairsoft.org/decouvrir-lairsoft/reglementation/) et les règles spécifiques à chaque partie, notamment concernant les éléments de sécurité, les puissances acceptées et les distances d'engagement.
 
-## 1. Connaissances théoriques
+## 1. Connaissances théoriques 🧠️
 
 ### Environnement
 
@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=SmzPbq6CnKY
     - repli
 - Un tir soutenu désoriente un adversaire et réduit ses réactions
 
-## 2. Formations, progressions et tactiques
+## 2. Formations, progressions et tactiques 🪖️
 
 ### Jeu d'équipe
 
@@ -175,7 +175,7 @@ https://www.youtube.com/watch?v=VRBM0P4Wjzo
 
 https://www.youtube.com/watch?v=OBbnpp4F4LQ
 
-## 3. Exercices
+## 3. Exercices 💪️
 
 ### Maîtriser sa réplique
 
@@ -222,7 +222,7 @@ https://www.youtube.com/shorts/o5UiCqQAkV0
 
 https://www.youtube.com/shorts/7Ps30wWlW3M
 
-## 4. Les protections oculaires certifiés
+## 4. Les protections oculaires certifiés 🥽️
 
 | Modèle | Prix |
 |--------|------|
@@ -250,7 +250,37 @@ https://www.youtube.com/shorts/7Ps30wWlW3M
 
 [En savoir plus sur les normes](https://ffairsoft.org/decouvrir-lairsoft/reglementation/reglementation-protections-oculaires/)
 
-## 5. 🛠️ Tableau de Diagnostic : Pannes, Causes et Actions
+## 5. Mécaniques 🛠️
+
+### Généralités & connaissances
+
+Fonctionnement réplique et gearbox : https://www.youtube.com/watch?v=6NIv7LgemxE
+
+Schéma fonctionnement gearbox : https://www.youtube.com/shorts/FlKF5f_6wiM
+
+Pneumatique & étanchéité : https://www.youtube.com/watch?v=M5PLSttHr3U
+
+Bloc hopup : https://www.youtube.com/watch?v=jFFTApZ9CvM
+
+Joint hopup : https://www.youtube.com/watch?v=bCyIXNuBaJY
+
+Calage gearbox : https://www.youtube.com/watch?v=YuZYwrxIiJs
+
+### Entretien courant et annuel
+
+https://www.youtube.com/watch?v=7peAUVRFg44
+
+### Upgrade
+
+Changer le joint hopup : https://www.youtube.com/watch?v=ZqQGNkt9OMU
+
+Upgrade pour 20€ : https://www.youtube.com/watch?v=8s5iMsBP-Oc et https://www.youtube.com/watch?v=-PxwBASV73o
+
+Upgrade complet : https://www.youtube.com/watch?v=nRzi_Muedc4
+
+Amélioration des performances : https://www.youtube.com/watch?v=vlTZWHIf9Gg
+
+### Tableau de Diagnostic
 
 | Symptôme | Causes Probables | Actions Correctives |
 | :--- | :--- | :--- |
