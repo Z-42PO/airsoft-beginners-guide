@@ -1,4 +1,4 @@
-# Airsoft - Guide d'amélioration v1.4.0
+# Airsoft - Guide d'amélioration v1.5.0
 
 ## Avant propos
 
@@ -252,6 +252,12 @@ https://www.youtube.com/shorts/7Ps30wWlW3M
 
 ## 5. Mécaniques 🛠️
 
+On distingue deux types d'intervention : **la fiabilisation** et **l'upgrade** .
+
+L'objectif de **la fiabilisation** est d'obtenir une réplique qui tire toutes ses billes sans bourrage ni tir à vide (missfeed) et ce de la même manière à chaque bille. Idéalement l'écart max est de 1% entre la meilleure et la pire performance. L'écart se mesure en mesurant la puissance de la réplique avec un chronographe, avec le grammage de jeu et le hopup réglé. Par exemple à 0,95J de puissance attendue, chaque tir doit être entre 0,94J et 0,96J.
+
+**L'upgrade** consiste à améliorer une réplique fiabilisée afin d'atteindre des performances supérieures : cadence de tir très élevée et / ou puissance élevée.
+
 ### Généralités & connaissances
 
 Fonctionnement réplique et gearbox : https://www.youtube.com/watch?v=6NIv7LgemxE
@@ -268,13 +274,52 @@ Joint hopup : https://www.youtube.com/watch?v=bCyIXNuBaJY
 
 Les canons : https://www.youtube.com/watch?v=WJ0_0N3-8vw
 
+### Fiabilisation
+
+#### Fiabilisation électrique
+
+- Vérifier l'état des câblages. Resouder si besoin, et mettre de la gaine thermo-retractable ou du scotch d'électricien sur les câbles endommagés
+- WD40 nettoyant contacts sur mosfet et autres cosses et élements électriques / électroniques
+
+#### Fiabilisation pneumatique
+
+- Tête de cylindre : vérifier l'étanchéité et jeu avec le cylindre (ruban téflon)
+- Cylindre : nettoyer
+- Cylindre + tête de cylindre : positionner dans la gearbox et caler le cylindre le plus en avant possible
+- Tête piston : vérifier l'étanchéité du joint
+- Nozzle : vérifier l'étanchéité et jeu
+- Ensemble complet : contrôler l'étanchéité complète avec tappet plate le plus en avant
+- Joint hopup : vérifier son état et sa cohérence avec le grammage de bille utilisé
+- Vérifier l'étanchéité de la gearbox avec le bloc hopup
+
+#### Fiabilisation mécanique
+
+- Dégraisser gearbox avec du nettoyant frein
+- Calage moteur
+- Calage bevel + spur + sector gear également par rapport au moteur et rail du piston
+- Vérifier la tension ressort tappet plate
+- Ajuster l'AOE
+- Coller rail piston + frein filet tête piston
+- Graissage léger au téflon/PTFE (ou lithium partie mécanique et silicone joints)
+
+#### Fiabilisation du canon
+
+- Nettoyage canon
+- Calage du canon dans le upper
+- Calage vertical du bloc hopup par rapport au canon
+
+
 ### Bricolage & Upgrade
 
 Entretien courant et annuel : https://www.youtube.com/watch?v=7peAUVRFg44
 
 Pneumatique & étanchéité : https://www.youtube.com/watch?v=M5PLSttHr3U
 
-Calage gearbox : https://www.youtube.com/watch?v=mImTUObSlQM et https://www.youtube.com/watch?v=YuZYwrxIiJs
+Calage gearbox :
+
+- https://www.youtube.com/watch?v=eGCzJ4A9mlA
+- https://www.youtube.com/watch?v=mImTUObSlQM
+- https://www.youtube.com/watch?v=YuZYwrxIiJs
 
 Changer le joint hopup : https://www.youtube.com/watch?v=ZqQGNkt9OMU
 
