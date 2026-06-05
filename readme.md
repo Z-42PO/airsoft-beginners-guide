@@ -1,4 +1,4 @@
-# Airsoft - Guide d'amélioration v1.5.0
+# Airsoft - Guide d'amélioration v1.6.0
 
 ## Avant propos
 
@@ -175,7 +175,37 @@ https://www.youtube.com/watch?v=VRBM0P4Wjzo
 
 https://www.youtube.com/watch?v=OBbnpp4F4LQ
 
-## 3. Exercices 💪️
+## 3. Signaux tactiques 👋️
+
+<a href="hand-signals-for-airsoft.png" target="_blank"><img src="hand-signals-for-airsoft.png" alt="Signaux tactiques pour l'airsoft" width="600"></a>
+
+- **Qui :** [moi](https://youtu.be/sXSI-GJqyFM?t=18) / [toi](https://youtu.be/sXSI-GJqyFM?t=3) / [ennemi](https://youtu.be/uEfLh75wh3Q?t=950)
+- **Quoi :** [couvre moi](https://youtu.be/uEfLh75wh3Q?t=419) / [regarder](https://youtu.be/uEfLh75wh3Q?t=293) / [écouter](https://youtu.be/uEfLh75wh3Q?t=409) / `tirer` : comme `ennemi` mais dans l'autre sens / [silence](https://youtu.be/uEfLh75wh3Q?t=419) / [parler](https://youtu.be/uEfLh75wh3Q?t=835)
+- **Combien :** [chiffre](https://youtu.be/T7eQ2MebTNk?t=703)
+- **Déplacement :** [stop](https://youtu.be/gEpH5tvwYkI?t=32) / [se dépêcher](https://youtu.be/gEpH5tvwYkI?t=125) / [se baisser](https://youtu.be/RZMii-J8qIA?t=33) / [se lever](https://youtu.be/RZMii-J8qIA?t=37) / [en avant](https://youtu.be/RZMii-J8qIA?t=13) / `aller` : comme `contourner` mais tout droit / [contourner](https://youtu.be/gEpH5tvwYkI?t=212) / [venir vers moi](https://youtu.be/gEpH5tvwYkI?t=89) / [direction](https://www.youtube.com/shorts/xnR3gRFzSQ4)
+- **Réaction :** [oui](https://youtu.be/uEfLh75wh3Q?t=342) / [non](https://youtu.be/uEfLh75wh3Q?t=361) / [annuler](https://youtu.be/uEfLh75wh3Q?t=393) / [pas compris](https://youtu.be/uEfLh75wh3Q?t=260s) / [ok](https://youtu.be/uEfLh75wh3Q?t=315)
+
+### Principes, sous-entendus et usages
+
+- Toujours garder un oeil sur son leader ou être à l'affût d'un signe ou son qui indique qu'il demande l'attention
+- Si le leader signe sans `qui` la consigne sera pour tout le monde
+- Sans précision, un chiffre fait référence à un nombre d'ennemi
+- Sans consigne du leader, imiter ses déplacements (lever, baisser, etc.)
+- Être toujours prêt à tirer, donc `regarder` `direction` = `couvrir` `direction`
+- `couvrir` seul indique `couvre moi`
+- `direction` seul indique de couvrir la direction
+- `tirer`, `aller`, `contourner` peuvent indiquer le `quoi` et le `où` en même temps en signant dans la direction si le signe est visible (sinon le faire en 2 signes `tirer` `direction`)
+- Pour différer une action, finir la consigne par `stop` puis faire un compte à rebours : `toi` `aller` `stop` `3-2-1`
+- Toujours accuser réception d'un ordre ou d'une info par `ok` ou `pas compris`
+- `ok` est à la fois une question et une réponse, et veut dire à la fois `Est-ce que ça va ?` ou `Est-ce que tu as compris ?` :
+    - `Est-ce que ça va ?` réponse `oui` = `ok` réponse `oui / ok`
+    - `Je te couvre, va à droite` réponse `D'accord` = `moi couvrir toi aller` réponse `ok`
+- Faire des phrases courtes :
+    - `Je vois 2 ennemis par là` = `2` `direction`
+    - `Toi A rassemblement, Toi B idem, Toi C idem, Toi D couvre cette direction` = `Toi D` `direction` puis `rassemblement`
+
+
+## 4. Exercices 🏋️
 
 ### Maîtriser sa réplique
 
@@ -222,7 +252,7 @@ https://www.youtube.com/shorts/o5UiCqQAkV0
 
 https://www.youtube.com/shorts/7Ps30wWlW3M
 
-## 4. Les protections oculaires certifiés 🥽️
+## 5. Les protections oculaires certifiés 🥽️
 
 | Modèle | Prix |
 |--------|------|
@@ -250,7 +280,7 @@ https://www.youtube.com/shorts/7Ps30wWlW3M
 
 [En savoir plus sur les normes](https://ffairsoft.org/decouvrir-lairsoft/reglementation/reglementation-protections-oculaires/)
 
-## 5. Mécaniques 🛠️
+## 6. Mécaniques 🛠️
 
 On distingue deux types d'intervention : **la fiabilisation** et **l'upgrade** .
 
@@ -344,7 +374,7 @@ Amélioration des performances : https://www.youtube.com/watch?v=vlTZWHIf9Gg
 > Un ressort **M90** est conçu pour des billes de **0.20g - 0.25g**. Il devrait théoriquement générer **330-360 FPS** (soit **0.85J - 1.0J**).<br>
 > Si la puissance est inférieure à **0.8J**, le problème vient souvent d'une **fuite d'air** (O-rings secs) plutôt que du ressort lui-même.
 
-## 6. Sources générales
+## 7. Sources générales
 
 https://www.youtube.com/watch?v=qU9T1gbpqf8
 
