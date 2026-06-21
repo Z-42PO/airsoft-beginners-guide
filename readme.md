@@ -252,6 +252,8 @@ https://www.youtube.com/shorts/o5UiCqQAkV0
 
 https://www.youtube.com/shorts/7Ps30wWlW3M
 
+https://www.youtube.com/watch?v=lyykejpT-FA
+
 ## 5. Les protections oculaires certifiés 🥽️
 
 | Modèle | Prix |
