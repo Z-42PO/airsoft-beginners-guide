@@ -1,4 +1,4 @@
-# Airsoft - Guide d'amélioration v1.6.0
+# Airsoft - Guide d'amélioration v1.7.0
 
 ## Avant propos
 
@@ -16,112 +16,183 @@ Bonne lecture.
 
 Il est important avant tout de bien connaître la [réglementation](https://ffairsoft.org/decouvrir-lairsoft/reglementation/) et les règles spécifiques à chaque partie, notamment concernant les éléments de sécurité, les puissances acceptées et les distances d'engagement.
 
-## 1. Connaissances théoriques 🧠️
+## 1. Déplacement & furtivité 🥷
 
-### Environnement
+### Déplacement
 
-- Assurer sa discrétion
-    - être silencieux
+- Marcher en posant le talon d'abord, les orteils ensuite
+- Avancer toujours vers l'avant, donc se retourner si besoin de reculer
+- Avoir le canon droit juste sous la ligne de vue le plus souvent possible
+- Pour s'accroupir : reculer un pied et poser le genou de la même jambe
+- Pour s'allonger :
+    - en étant debout : poser une main au sol et jeter ses jambes derrières soi
+    - en étant accroupi : poser une main au sol et allonger la jambe dont le genou n'est pas déjà au sol
+
+### Furtivité
+
+- Assurer sa discrétion c'est :
+    - être silencieux (parole, marche, passage etc.)
     - avoir des mouvements fluides et lents
     - avoir une posture peu agressive
+- Se déplacer régulièrement mais peu longtemps
+    - déplacement de 4sec max
+    - rester au même endroit 30sec max
+- Éviter les zones claires, et attention au changement de zones claires / sombres
+- Privilégier des couverts francs, derrière lesquels le corps entier est protégé
+- Avant un déplacement :
+    - anticiper son prochain déplacement / couvert
+    - vérifier sur les côtés (90°)
+- Pendant le déplacement :
+    - se déplacer de couvert à couvert
+    - si possible en diagonal
+    - en ligne droite uniquement si un couvert vous protège
+- Après un déplacement, vérifier à nouveau sur les côtés
+
+#### 🎬 Vidéos
+
+- [Conseils de progression en milieu forestier - ⏱️26min](https://www.youtube.com/watch?v=F0fKxJJwM58)
+- [Fondamentaux d'entraiment complet - ⏱️52min 🇬🇧](https://www.youtube.com/watch?v=lswY7oIa9Lg)
+- [Mouvements de combat de base - ⏱️5min](https://www.youtube.com/watch?v=qFyrHONryE0)
+- [Transition de position - ⏱️4min 🇬🇧](https://www.youtube.com/watch?v=lyykejpT-FA)
+- [Astuce pour s'allonger - ⏱️5sec](https://www.youtube.com/shorts/o5UiCqQAkV0)
+- [Exercices à pratiquer chez soi - ⏱️5min](https://www.youtube.com/watch?v=3HjuzilY0to)
+
+### Mentalisation de l'espace et du temps
+
 - Écouter son environnement afin de mentaliser ce qu'il se passe
 - Se familiariser avec le concept de la valeur du temps passé à faire quelque chose
     - par rapport à soi-même et son équipe
     - par rapport aux temps des autres
-- Rester autant que possible groupé en équipe, au moins à deux
 
-#### Sources
+#### 🎬 Vidéos
 
-https://www.youtube.com/watch?v=F0fKxJJwM58
+[Parallèle avec Call of Duty - ⏱️10min 🇬🇧](https://www.youtube.com/watch?v=1Z2YJKQCKuY)
 
-https://www.youtube.com/watch?v=1Z2YJKQCKuY
+## 2. Engagement & Tir 🎯
 
-### Déplacement
+### Maîtriser sa réplique
 
-- Avoir le canon droit juste sous la ligne de vue le plus souvent possible
-- Poser le talon d'abord, les orteils ensuite
-- Avancer toujours vers l'avant, donc se retourner si besoin de reculer
-- Se déplacer régulièrement mais peu longtemps
-    - déplacement de 4sec max
-    - pause 30sec max
-    - ne pas rester trop longtemps au même endroit
-- Éviter les zones claires, et attention au changement de zones claires/obscures
-- Avant un déplacement d'un couvert à un autre, vérifier sur les côtés (90°), puis refaire de même une fois arrivé
-- Se déplacer en diagonal de couvert à couvert. La ligne droite uniquement si un couvert vous protège
-- Anticiper son prochain déplacement (et donc son prochain couvert) avant de bouger
-- Choisir des couverts francs, derrière lesquels le corps entier est protégé
+- Tenir sa réplique prête à tirer
+- Maîtriser le désépaulé : changement d'épaule sans changement de main
+- Connaître le changement d'épaule avec changement de main
+- Adapter sa tenue et ses gestes pour un rechargement rapide et efficace
+- Maîtriser la transition (passage de la réplique principale à la secondaire et inversement)
 
-#### Sources
+### Prise de cible
 
-https://www.youtube.com/watch?v=F0fKxJJwM58
+- Connaître la distance à laquelle sa réplique est efficace à 90%
+- Ne pas tirer sur une cible qu'on ne pas pas toucher de manière sûre (distance, couvert etc.)
+- Bien identifier sa cible avant de tirer, afin d'éviter les accidents ou tir fratricide
 
-https://www.youtube.com/watch?v=BKC-idCvWAY
+### Tir et rechargement
 
-### Couverture
+- S'assurer d'avoir un chargeur suffisamment plein
+- Dans le doute recharger ou passer sur sa réplique secondaire (geste plus rapide)
+- Tirer 2-3 billes plutôt qu'une pour maximiser les chances de toucher
+- Changer de position/couvert après avoir tiré
+
+### Engagement à couvert
 
 - Faire face à la couverture
 - Se tenir à une distance d'un bras pour pouvoir tenir sa réplique pointée
 - Tenir sa réplique du côté de l'ouverture, pour mettre son corps du côté du couvert
-- Regarder sur les côtés et non par-dessus
+- Regarder sur les côtés et non par-dessus autant que possible
 - Reculer d'un pas ou deux si besoin permet d'affiner l'angle de tir et de se découvrir plus finement
-- Acquérir la cible avec un mouvement rapide de la tête uniquement (un seul œil)
+- Acquérir la cible avec un mouvement rapide de la tête uniquement si possible, voir d'un seul œil
 - Pointer le canon et être prêt à tirer avant de se découvrir
 - Rentrer le coude et le genou extérieur
 - Se pencher pour se découvrir plutôt que se déplacer
 - Tirer très peu et se remettre rapidement à couvert
 - Ne pas se mettre à découvert 2 fois de suite de la même manière (varier haut/bas et gauche/droite)
 
-#### Sources
+#### 🎬 Vidéos
 
-https://www.youtube.com/watch?v=3jQq2khOOgg
+- [Comment utiliser les couverts - ⏱️11min 🇬🇧](https://www.youtube.com/watch?v=3jQq2khOOgg)
+- [3 conseils pour éviter d'être touché - ⏱️5min](https://www.youtube.com/watch?v=vimeojSxHD8)
+- [Comment utiliser les couverts - ⏱️9min 🇬🇧](https://www.youtube.com/watch?v=tnqAXaTvNvA)
+- [Astuce pour les couverts - ⏱️7min 🇬🇧](https://www.youtube.com/watch?v=SmzPbq6CnKY)
 
-https://www.youtube.com/watch?v=vimeojSxHD8
+### Gestion des 1v1
 
-https://www.youtube.com/watch?v=tnqAXaTvNvA
-
-https://www.youtube.com/watch?v=SmzPbq6CnKY
-
-### Engagement
-
-- Connaître la distance à laquelle sa réplique est efficace à 90%
-- Ne pas tirer sur une cible qu'on ne pas pas toucher de manière sûre (distance, couvert etc.)
-- S'assurer d'avoir un chargeur suffisamment plein. Dans le doute recharger ou passer sur sa réplique secondaire (geste plus rapide)
-- Bien identifier sa cible avant de tirer, afin d'éviter les accidents ou tir fratricide
-- Éviter les combats 50/50 (1vs1, 2vs2). Pour s'en sortir :
+- Éviter les combats 50/50 (1v1, 2v2). Pour s'en sortir :
     - tir soutenu et/puis déplacement furtif latéral à un autre couvert pour angle de tir plus ouvert
     - repli
 - Un tir soutenu désoriente un adversaire et réduit ses réactions
 
-## 2. Formations, progressions et tactiques 🪖️
+#### Sources
 
-### Jeu d'équipe
+https://youtu.be/sYeLkl04rFw?si=7FmVRjW9l14vZCXD&t=766 (changement d'épaule)
+
+https://m.youtube.com/watch?v=vH9kKYKs7dQ (réplique prête)
+
+https://www.youtube.com/watch?v=WHx4U-Hk_cI (réplique prête)
+
+https://www.youtube.com/watch?v=lrfWlfamO7s (réplique prête)
+
+https://www.youtube.com/watch?v=WMhtMJ6UPUc&t=1860s (désépaulé)
+
+## 3. Jeu d'Équipe & Communication
+
+### Communication efficace
 
 - La communication avec les autres est clé
     - quoi : ennemis ou type (assaut, sniper, soutien)
     - combien
     - où / quelle direction : un azimut s'il a était défini à l'avance, sinon un élément reconnaissable
-    - communication silencieuse la plupart du temps (chuchoter ou signes)
-    - une fois l'engagement, la communication peut être à haute voix
+- Communication silencieuse la plupart du temps (chuchoter ou signes)
+- Une fois l'engagement, la communication peut être à haute voix
 
-### Attaque
+### Signaux tactiques
 
+<a href="hand-signals-for-airsoft.png" target="_blank"><img src="hand-signals-for-airsoft.png" alt="Signaux tactiques pour l'airsoft" width="600"></a>
+
+- **Qui :** [moi](https://youtu.be/sXSI-GJqyFM?t=18) / [toi](https://youtu.be/sXSI-GJqyFM?t=3) / [ennemi](https://youtu.be/uEfLh75wh3Q?t=950)
+- **Quoi :** [couvre moi](https://youtu.be/uEfLh75wh3Q?t=419) / [regarder](https://youtu.be/uEfLh75wh3Q?t=293) / [écouter](https://youtu.be/uEfLh75wh3Q?t=409) / `tirer` : comme `ennemi` mais dans l'autre sens / [silence](https://youtu.be/uEfLh75wh3Q?t=419) / [parler](https://youtu.be/uEfLh75wh3Q?t=835)
+- **Combien :** [chiffre](https://youtu.be/T7eQ2MebTNk?t=703)
+- **Déplacement :** [stop](https://youtu.be/gEpH5tvwYkI?t=32) / [se dépêcher](https://youtu.be/gEpH5tvwYkI?t=125) / [se baisser](https://youtu.be/RZMii-J8qIA?t=33) / [se lever](https://youtu.be/RZMii-J8qIA?t=37) / [en avant](https://youtu.be/RZMii-J8qIA?t=13) / `aller` : comme `contourner` mais tout droit / [contourner](https://youtu.be/gEpH5tvwYkI?t=212) / [venir vers moi](https://youtu.be/gEpH5tvwYkI?t=89) / [direction](https://www.youtube.com/shorts/xnR3gRFzSQ4)
+- **Réaction :** [oui](https://youtu.be/uEfLh75wh3Q?t=342) / [non](https://youtu.be/uEfLh75wh3Q?t=361) / [annuler](https://youtu.be/uEfLh75wh3Q?t=393) / [pas compris](https://youtu.be/uEfLh75wh3Q?t=260s) / [ok](https://youtu.be/uEfLh75wh3Q?t=315)
+
+#### Principes, sous-entendus et usages
+
+- Toujours garder un oeil sur son leader ou être à l'affût d'un signe ou son qui indique qu'il demande l'attention
+- Si le leader signe sans `qui` la consigne sera pour tout le monde
+- Sans précision, un chiffre fait référence à un nombre d'ennemi
+- Sans consigne du leader, imiter ses déplacements (lever, baisser, etc.)
+- Être toujours prêt à tirer, donc `regarder` `direction` = `couvrir` `direction`
+- `couvrir` seul indique `couvre moi`
+- `direction` seul indique de couvrir la direction
+- `tirer`, `aller`, `contourner` peuvent indiquer le `quoi` et le `où` en même temps en signant dans la direction si le signe est visible (sinon le faire en 2 signes `tirer` `direction`)
+- Pour différer une action, finir la consigne par `stop` puis faire un compte à rebours : `toi` `aller` `stop` `3-2-1`
+- Toujours accuser réception d'un ordre ou d'une info par `ok` ou `pas compris`
+- `ok` est à la fois une question et une réponse, et veut dire à la fois `Est-ce que ça va ?` ou `Est-ce que tu as compris ?` :
+    - `Est-ce que ça va ?` réponse `oui` = `ok` réponse `oui / ok`
+    - `Je te couvre, va à droite` réponse `D'accord` = `moi couvrir toi aller` réponse `ok`
+- Faire des phrases courtes :
+    - `Je vois 2 ennemis par là` = `2` `direction`
+    - `Toi A rassemblement, Toi B idem, Toi C idem, Toi D couvre cette direction` = `Toi D` `direction` puis `rassemblement`
+
+### Formations & Progression
+
+- Rester autant que possible groupé en équipe, au moins à deux
 - Connaître les formations de bases : ligne, colonne, diamant
 - Connaître les progressions de bases : tiroir, perroquet, hybride tiroir/perroquet, repli
 - Généralement former une ligne (angle de tir plus large) est le plus simple. Si plus nombreux, faire une formation ligne + colonne
 
 #### Sources
 
-https://www.youtube.com/watch?v=uHb0wVJQc6M
+https://www.youtube.com/watch?v=uHb0wVJQc6M (formations ligne/colonne/diamant)
 
-https://www.youtube.com/watch?v=m8kMtxO4l0E
+https://www.youtube.com/watch?v=m8kMtxO4l0E (progressions)
 
 https://air-soft.gun-evasion.com/blog/deplacements-airsoft/
 
 https://fr.wikipedia.org/wiki/Tactique_militaire
 
-### Défense
+## 4. Tactiques Avancées & Spécialisations 🛡️
 
-- Défense active en ligne en amont avec 2 personnes en harcèlement latéral
+### Défense active
+
+- Défense en ligne en amont avec 2 personnes en harcèlement latéral
 - Organisation des couvertures et des rôles
 
 #### Sources
@@ -175,114 +246,33 @@ https://www.youtube.com/watch?v=VRBM0P4Wjzo
 
 https://www.youtube.com/watch?v=OBbnpp4F4LQ
 
-## 3. Signaux tactiques 👋️
+## 5. Renforcement musculaire 🏋️
 
-<a href="hand-signals-for-airsoft.png" target="_blank"><img src="hand-signals-for-airsoft.png" alt="Signaux tactiques pour l'airsoft" width="600"></a>
+🚧 en cours...
 
-- **Qui :** [moi](https://youtu.be/sXSI-GJqyFM?t=18) / [toi](https://youtu.be/sXSI-GJqyFM?t=3) / [ennemi](https://youtu.be/uEfLh75wh3Q?t=950)
-- **Quoi :** [couvre moi](https://youtu.be/uEfLh75wh3Q?t=419) / [regarder](https://youtu.be/uEfLh75wh3Q?t=293) / [écouter](https://youtu.be/uEfLh75wh3Q?t=409) / `tirer` : comme `ennemi` mais dans l'autre sens / [silence](https://youtu.be/uEfLh75wh3Q?t=419) / [parler](https://youtu.be/uEfLh75wh3Q?t=835)
-- **Combien :** [chiffre](https://youtu.be/T7eQ2MebTNk?t=703)
-- **Déplacement :** [stop](https://youtu.be/gEpH5tvwYkI?t=32) / [se dépêcher](https://youtu.be/gEpH5tvwYkI?t=125) / [se baisser](https://youtu.be/RZMii-J8qIA?t=33) / [se lever](https://youtu.be/RZMii-J8qIA?t=37) / [en avant](https://youtu.be/RZMii-J8qIA?t=13) / `aller` : comme `contourner` mais tout droit / [contourner](https://youtu.be/gEpH5tvwYkI?t=212) / [venir vers moi](https://youtu.be/gEpH5tvwYkI?t=89) / [direction](https://www.youtube.com/shorts/xnR3gRFzSQ4)
-- **Réaction :** [oui](https://youtu.be/uEfLh75wh3Q?t=342) / [non](https://youtu.be/uEfLh75wh3Q?t=361) / [annuler](https://youtu.be/uEfLh75wh3Q?t=393) / [pas compris](https://youtu.be/uEfLh75wh3Q?t=260s) / [ok](https://youtu.be/uEfLh75wh3Q?t=315)
+La meilleure tactique du monde ne sert à rien si tu es essoufflé après 10 minutes. Ce chapitre te donne les bases pour tenir la distance.
 
-### Principes, sous-entendus et usages
-
-- Toujours garder un oeil sur son leader ou être à l'affût d'un signe ou son qui indique qu'il demande l'attention
-- Si le leader signe sans `qui` la consigne sera pour tout le monde
-- Sans précision, un chiffre fait référence à un nombre d'ennemi
-- Sans consigne du leader, imiter ses déplacements (lever, baisser, etc.)
-- Être toujours prêt à tirer, donc `regarder` `direction` = `couvrir` `direction`
-- `couvrir` seul indique `couvre moi`
-- `direction` seul indique de couvrir la direction
-- `tirer`, `aller`, `contourner` peuvent indiquer le `quoi` et le `où` en même temps en signant dans la direction si le signe est visible (sinon le faire en 2 signes `tirer` `direction`)
-- Pour différer une action, finir la consigne par `stop` puis faire un compte à rebours : `toi` `aller` `stop` `3-2-1`
-- Toujours accuser réception d'un ordre ou d'une info par `ok` ou `pas compris`
-- `ok` est à la fois une question et une réponse, et veut dire à la fois `Est-ce que ça va ?` ou `Est-ce que tu as compris ?` :
-    - `Est-ce que ça va ?` réponse `oui` = `ok` réponse `oui / ok`
-    - `Je te couvre, va à droite` réponse `D'accord` = `moi couvrir toi aller` réponse `ok`
-- Faire des phrases courtes :
-    - `Je vois 2 ennemis par là` = `2` `direction`
-    - `Toi A rassemblement, Toi B idem, Toi C idem, Toi D couvre cette direction` = `Toi D` `direction` puis `rassemblement`
-
-
-## 4. Exercices 🏋️
-
-### Maîtriser sa réplique
-
-- Tenir sa réplique
-- Position d'engagement depuis position haute et basse
-- Maîtriser le dés-épaulé / tir avec œil secondaire
-- Connaître la technique du changement d'épaule
-- Rechargement efficace et rapide
-- Transition : passage de la réplique principale à la secondaire et inversement
-
-#### Sources
-
-https://youtu.be/sYeLkl04rFw?si=7FmVRjW9l14vZCXD&t=766
-
-https://m.youtube.com/watch?v=vH9kKYKs7dQ
-
-https://www.youtube.com/watch?v=WHx4U-Hk_cI
-
-https://www.youtube.com/watch?v=lrfWlfamO7s
-
-https://www.youtube.com/watch?v=WMhtMJ6UPUc&t=1860s
-
-
-### Maîtriser son corps
-
-- Mouvement du corps et changement d'angle
-- Positions : debout, accroupis, genoux posé, allongé
-- Déplacements
+- Squat
+- Sprints
+- Haut du dos
+- Bas du dos
 - Fitness : abdos, cuisses, cardio (corde, courses, vélo)
 
-#### Sources
+### Sources
 
-https://www.youtube.com/watch?v=qFyrHONryE0
+https://www.youtube.com/watch?v=SoVePsilwcY (fitness)
 
-https://www.youtube.com/watch?v=lswY7oIa9Lg
+## 6. Mécanique & Entretien 🛠️
 
-https://www.youtube.com/watch?v=SoVePsilwcY
+### Entretien après chaque partie
 
-https://www.youtube.com/watch?v=3HjuzilY0to
+- Retirer la batterie et charger en mode "stockage"
+- Remise à zéro du hop-up
+- Nettoyage du canon
+- Nettoyage de l'externe
+- Vider les chargeurs
 
-https://www.youtube.com/watch?v=vimeojSxHD8&t=204s
-
-https://www.youtube.com/shorts/o5UiCqQAkV0
-
-https://www.youtube.com/shorts/7Ps30wWlW3M
-
-https://www.youtube.com/watch?v=lyykejpT-FA
-
-## 5. Les protections oculaires certifiés 🥽️
-
-| Modèle | Prix |
-|--------|------|
-| Pyramex Capstone | 12€ |
-| Bollé Cobra Hybride | 15€ |
-| Delta Tactics X8 ✅ | 20€ |
-| Pyramex V2G-Plus | 27€ |
-| Delta Tactics X1000 | 25€ |
-| Begadi CP1 | 50€ |
-| Bollé X800 ⭐✅ | 80€ |
-| Bollé X810 | 80€ |
-| Bollé X1000 ⭐ | 95€ |
-| ESS Profile NVG ✅ | 100€ |
-| WILEY X Nerve | 100€ |
-| ESS Land Ops | 110€ |
-| Swiss Eye F-Tac ✅ | 115€ |
-| WILEY X Spear ⭐✅ | 120€ |
-| Oakely Si Ballistic Halo | 130€ |
-| WILEY X Spear Dual Lens ✅ | 140€ |
-| ESS Influx ⭐✅ | 170€ |
-
-⭐ : Trouvable sur leboncoin neuf non déballé en moyenne à 50€ car équipement police / armée (beaucoup de ESS Influx notamment) 
-
-✅ : toutes options (3 coloris noir/vert/beige et 3 écrans fournis neutre/fumé/jaune)
-
-[En savoir plus sur les normes](https://ffairsoft.org/decouvrir-lairsoft/reglementation/reglementation-protections-oculaires/)
-
-## 6. Mécaniques 🛠️
+### Fiabilisaton vs Upgrade
 
 On distingue deux types d'intervention : **la fiabilisation** et **l'upgrade** .
 
@@ -376,7 +366,37 @@ Amélioration des performances : https://www.youtube.com/watch?v=vlTZWHIf9Gg
 > Un ressort **M90** est conçu pour des billes de **0.20g - 0.25g**. Il devrait théoriquement générer **330-360 FPS** (soit **0.85J - 1.0J**).<br>
 > Si la puissance est inférieure à **0.8J**, le problème vient souvent d'une **fuite d'air** (O-rings secs) plutôt que du ressort lui-même.
 
-## 7. Sources générales
+## 7. Les protections oculaires certifiés 🥽️
+
+| Modèle | Prix |
+|--------|------|
+| Pyramex Capstone | 12€ |
+| Bollé Cobra Hybride | 15€ |
+| Delta Tactics X8 ✅ | 20€ |
+| Pyramex V2G-Plus | 27€ |
+| Delta Tactics X1000 | 25€ |
+| Begadi CP1 | 50€ |
+| Bollé X800 ⭐✅ | 80€ |
+| Bollé X810 | 80€ |
+| Bollé X1000 ⭐ | 95€ |
+| ESS Profile NVG ✅ | 100€ |
+| WILEY X Nerve | 100€ |
+| ESS Land Ops | 110€ |
+| Swiss Eye F-Tac ✅ | 115€ |
+| WILEY X Spear ⭐✅ | 120€ |
+| Oakely Si Ballistic Halo | 130€ |
+| WILEY X Spear Dual Lens ✅ | 140€ |
+| ESS Influx ⭐✅ | 170€ |
+
+⭐ : Trouvable sur leboncoin neuf non déballé en moyenne à 50€ car équipement police / armée (beaucoup de ESS Influx notamment) 
+
+✅ : toutes options (3 coloris noir/vert/beige et 3 écrans fournis neutre/fumé/jaune)
+
+[En savoir plus sur les normes](https://ffairsoft.org/decouvrir-lairsoft/reglementation/reglementation-protections-oculaires/)
+
+## 8. Sources générales
+
+https://www.youtube.com/watch?v=BKC-idCvWAY (tir à couvert, déplacement, )
 
 https://www.youtube.com/watch?v=qU9T1gbpqf8
 
